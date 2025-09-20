@@ -79,5 +79,10 @@ This repository contains four projects:
 [Watch Demo](https://drive.google.com/file/d/1hjJYZSEHpl9djVByP6yV3Cdig5NA4Sj-/view?usp=sharing) 
 
 ---
+## 👤 Student Information
+- Name: Nadeesha Thejangani Samaraweera
+- Student Registration Number: 2301682018
+- Email Address: nadeesamaraweera2000@gmail.com
+
 ## 📝 License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE)
